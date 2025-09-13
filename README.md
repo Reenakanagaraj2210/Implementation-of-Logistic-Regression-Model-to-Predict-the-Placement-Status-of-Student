@@ -72,7 +72,6 @@ print(prediction)
 
 ```
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
 
 <img width="668" height="236" alt="image" src="https://github.com/user-attachments/assets/2d7cb22d-a812-4967-b8d6-d2e7d122f24b" />
